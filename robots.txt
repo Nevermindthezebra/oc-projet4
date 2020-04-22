@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nevermindthezebra.github.io/oc-projet4/sitemap.xml
