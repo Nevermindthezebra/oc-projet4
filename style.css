@@ -390,6 +390,11 @@ a:hover {
         float: none;
         display: inline-block;
     }
+
+    .navbar-header .keywords{
+        color:#cccccc;font-size:1px;
+    }
+
     .nav-center .site-navigation {
         position: relative;
         width: 100%;
@@ -702,6 +707,10 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+}
+
+.social .keywords {
+    color:#F3976C;
 }
 
 h2 {
